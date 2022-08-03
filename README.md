@@ -19,4 +19,5 @@ The main objective is to fit a decision tree classifier to provide predictions f
 
 ## Methodology
 The first step was to identify the dependent and independent variables, then split them into training and testing sets. Feature scaling was done through standardization to make sure no variable dominates the others while also putting the variables on the same scale. A decision tree was fitted on the training dataset and the confusion matrix is as shown below.
+
 ![confusion matrix](https://user-images.githubusercontent.com/66782583/182689746-24e01922-d659-4212-b243-29a885bfc06b.PNG)
